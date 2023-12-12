@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your 李帅" />
+    <HelloWorld msg="Welcome to Your 孟宗坤" />
   </div>
 </template>
 
