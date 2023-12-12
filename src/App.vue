@@ -5,6 +5,8 @@
     <img alt="Vue logo" src="./assets/logo.png" />
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your 李帅" />
+    <img alt="Vue logo" src="./assets/logo.png" />
+    <HelloWorld msg="Welcome to Your 陈开阳" />
   </div>
 </template>
 
