@@ -2,6 +2,13 @@
   <div id="app">
     <h1>sad</h1>
     <h3>这个是dev分支(陈开阳)</h3>
+<<<<<<< HEAD
+    <h3>陈开阳的第一次测试(功能2)</h3>
+=======
+    <h3>正能量啊正能量(安俊涛)</h3>
+>>>>>>> feat/#5
+    <h1 class="bg">这是完美无BUG低功耗优美UI的超级-- 功能1(张傲宇)</h1>
+    <p>这是关于我给张宝其的自我介绍,我叫张宝其，我是个秒男,八秒真男人,第九秒就不行了(王家轩)</p>
     <h3>我叫张宝奇</h3>
   </div>
 </template>
@@ -25,5 +32,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+.bg {
+  color: yellow;
+  background: brown;
 }
 </style>
