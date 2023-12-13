@@ -4,6 +4,11 @@
     <h3>这个是dev分支(陈开阳)</h3>
     <h3>陈开阳的第一次测试(功能2)</h3>
     <h1 class="bg">这是完美无BUG低功耗优美UI的超级-- 功能1(张傲宇)</h1>
+    <section>
+      <div id="one" class="bg-[red] h-[15vw]">
+        中间的第一个div
+      </div>
+    </section>
   </div>
 </template>
 
