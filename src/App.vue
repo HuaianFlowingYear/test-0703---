@@ -11,11 +11,11 @@
     <h3>正能量啊正能量(安俊涛)</h3>
     <h1 class="bg">这是完美无BUG低功耗优美UI的超级-- 功能1(张傲宇)</h1>
     <p>这是关于我给张宝其的自我介绍,我叫张宝其，我是个秒男,八秒真男人,第九秒就不行了(王家轩)</p>
-<<<<<<< HEAD
     
-=======
     <h3>我叫张宝奇</h3>
->>>>>>> c340e029591e322eeffa18c98272f5be52f11c62
+    <div class="add">
+      <button @click="dianji">我是中间的第三个div,请点我</button>
+    </div>
   </div>
 </template>
 
@@ -27,6 +27,11 @@ export default {
   components: {
     HelloWorld,
   },
+  methods: {
+    dianji(){
+      alert("暗区突围,启动!")
+    }
+  }
 };
 </script>
 
