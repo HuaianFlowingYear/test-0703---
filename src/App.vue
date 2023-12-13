@@ -18,6 +18,9 @@
         中间的第一个div
       </div>
     </section>
+    <div class="add">
+      <button @click="dianji">我是中间的第三个div,请点我(王家轩)</button>
+    </div>
   </div>
 </template>
 
@@ -29,6 +32,11 @@ export default {
   components: {
     HelloWorld,
   },
+  methods: {
+    dianji(){
+      alert("暗区突围,启动!")
+    }
+  }
 };
 </script>
 
