@@ -13,8 +13,14 @@
     <p>这是关于我给张宝其的自我介绍,我叫张宝其，我是个秒男,八秒真男人,第九秒就不行了(王家轩)</p>
     
     <h3>我叫张宝奇</h3>
+<<<<<<< HEAD
     <div class="add">
       <button @click="dianji">我是中间的第三个div,请点我(王家轩)</button>
+=======
+    <div class="miffle_Tew">
+        <h3>招商面板</h3>
+        <p>这是页面中间内容第三块</p>
+>>>>>>> fead-middle_Tew
     </div>
   </div>
 </template>
@@ -47,5 +53,18 @@ export default {
 .bg {
   color: yellow;
   background: brown;
+}
+.miffle_Tew {
+  background: #fff;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.miffle_Tew h3 {
+  background: #000;
+  color: #fff;
+  padding: 5px;
+  margin: 0;
 }
 </style>
