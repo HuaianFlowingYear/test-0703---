@@ -14,7 +14,7 @@
     
     <h3>我叫张宝奇</h3>
     <div class="add">
-      <button @click="dianji">我是中间的第三个div,请点我</button>
+      <button @click="dianji">我是中间的第三个div,请点我(王家轩)</button>
     </div>
   </div>
 </template>
