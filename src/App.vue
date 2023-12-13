@@ -25,6 +25,11 @@
         <h3>招商面板</h3>
         <p>这是页面中间内容第三块</p>
     </div>
+      <button @click="dianji">我是中间的第三个div,请点我(王家轩)</button>
+      <div class="miffle_Tew">
+          <h3>招商面板</h3>
+          <p>这是页面中间内容第三块</p>
+      </div>
   </div>
   </div>
 </template>
