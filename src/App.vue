@@ -13,6 +13,11 @@
     <p>这是关于我给张宝其的自我介绍,我叫张宝其，我是个秒男,八秒真男人,第九秒就不行了(王家轩)</p>
     
     <h3>我叫张宝奇</h3>
+    <section>
+      <div id="one" class="bg-[red] h-[15vw]">
+        中间的第一个div
+      </div>
+    </section>
   </div>
 </template>
 
